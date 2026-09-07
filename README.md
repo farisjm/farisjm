@@ -1,12 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=MOHAMED%20FARIS&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Information%20Technology%20Undergraduate%20%7C%20Developer%20%26%20Cybersecurity%20Enthusiast&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm MOHAMED FARIS</h1>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=faris.jm">
-    <img src="https://komarev.com/ghpvc/?username=faris.jm&label=Profile%20views&color=00FFFF&style=flat-square" alt="faris.jm's profile views" />
-  </a>
-</p>
-
-<img src="none" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🎓 BSc IT Undergraduate

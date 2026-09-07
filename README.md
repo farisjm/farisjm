@@ -22,17 +22,10 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/faris.jm">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faris.jm&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="faris.jm's GitHub Stats" />
-  </a>
+
   <img src="https://streak-stats.demolab.com/?user=faris.jm&theme=radical&hide_border=true&cache_seconds=86400" alt="faris.jm's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=faris.jm&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="MOHAMED FARIS's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=faris.jm&theme=radical&radius=10" alt="faris.jm's Activity Graph" />
-</p>
+
 
 
 ## 🛠️ Languages & Tools
@@ -82,12 +75,6 @@
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
 
-</p>
-
-<p align="center">
-  <a href="https://github.com/faris.jm">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faris.jm&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
 </p>
 
 ## 🔗 Connect with Me

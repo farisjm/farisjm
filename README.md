@@ -81,7 +81,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-faris-a9766239a"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="MOHAMED FARIS's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:faris.mjm2004@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="MOHAMED FARIS's Email"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/5970701158076"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://wa.me/+94701158076"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
 <picture>

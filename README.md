@@ -1,92 +1,263 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm MOHAMED FARIS</h1>
 
+### BSc IT Undergraduate | Cybersecurity Enthusiast @ University of Vavuniya, Sri Lanka
 
-## 📌 About Me
-- 🎓 BSc IT Undergraduate
-- 💻 Full-Stack Development Enthusiast
-- 🔐 Cybersecurity Enthusiast
-- 📚 Currently Focused on Studies
-- 🧠 Passionate About Learning New Technologies
-- ⚡ Interested in Programming & Problem Solving
+I’m an Information Technology undergraduate interested in **Cybersecurity, Web Development, Cloud Computing, and emerging technologies**. I enjoy building practical software projects, learning how systems work, and continuously developing my technical skills through hands-on projects.
 
+🎓 BSc Information Technology
+🔐 Cybersecurity Enthusiast
+💻 Web & Software Development
+☁️ Cloud Computing
+🤖 AI & Data Technologies
 
-## 🧠 My Focus Areas
-- 💻 Full-Stack Development
-- 🔐 Cybersecurity
-- 🌐 Web Development
-- 🗄️ Databases
-- 🐍 Programming
-- 🧠 Problem Solving
-- 📚 Information Technology
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/farisjm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohamed-faris-a9766239a)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/94701158076)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:Faris.mjm2004@gmail.com)
 
+---
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
+## 🧭 About Me
 
-  <img src="https://streak-stats.demolab.com/?user=faris.jm&theme=radical&hide_border=true&cache_seconds=86400" alt="faris.jm's GitHub Streak" width="49%" />
-</p>
+* 🎓 Currently pursuing a **BSc in Information Technology** at the **University of Vavuniya, Sri Lanka**
+* 🔐 Strong interest in **Cybersecurity and Security Research**
+* 💻 Building projects using **HTML, CSS, JavaScript, PHP, Java, C, C++, and C#**
+* 🗄️ Learning and working with **MySQL and database systems**
+* 🌐 Interested in **Web Development and Networking**
+* ☁️ Exploring **Cloud Computing and modern IT infrastructure**
+* 🤖 Interested in **AI and Data Technologies**
+* 🛠️ Experienced with development tools such as **Visual Studio, VS Code, Git, and GitHub**
+* 📚 Continuously improving my programming, networking, database, and security knowledge
+* 🚀 Interested in building practical projects that solve real-world problems
 
+---
 
+## 🚀 Featured Projects
 
-## 🛠️ Languages & Tools
+### 🌾 JM PADDY — Paddy & Farmer Bill Management System
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
+A web-based management system designed to simplify **paddy purchasing, farmer management, billing, pricing, and reporting**.
 
-</p>
+* 👨‍🌾 Farmer record management
+* 🧾 Paddy bill generation
+* 💰 Price management
+* 📊 Reports and statistics
+* 🔐 User authentication
+* 📱 Responsive interface
+* 📄 Bill management and history
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+**Stack:** PHP • MySQL • HTML • CSS • JavaScript • Chart.js
 
-</p>
+🔗 **GitHub:** [github.com/farisjm/jm-paddy](https://github.com/farisjm/jm-paddy)
 
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
+---
 
-</p>
+### 🚗 Wagon R Hire — Vehicle Hire Website
 
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+A responsive website created for a **Wagon R hire service**, including customer booking and WhatsApp contact functionality.
 
-</p>
+* 🚘 Wedding Hire
+* ✈️ Airport Hire
+* 🇱🇰 All Sri Lanka Hire
+* 📱 WhatsApp booking
+* 📞 Direct contact
+* 📱 Responsive design
 
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
+**Stack:** HTML • CSS • JavaScript
 
-</p>
+---
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
+### 💻 Personal Portfolio Website
 
-</p>
+A personal portfolio website showcasing my:
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-faris-a9766239a"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="MOHAMED FARIS's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:faris.mjm2004@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="MOHAMED FARIS's Email"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/+94701158076"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-</p>
+* 🎓 Education
+* 💻 Technical skills
+* 🚀 Projects
+* 🔐 Cybersecurity interests
+* 📜 Certifications
+* 📞 Contact information
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+**Stack:** HTML • CSS • JavaScript • PHP
 
+---
+
+## 🔐 Cybersecurity Interests
+
+I am particularly interested in developing my knowledge in:
+
+* 🔒 Cybersecurity
+* 🌐 Network Security
+* 🛡️ Information Security
+* 🔍 Security Research
+* 🧪 Ethical Hacking
+* 🔐 Authentication & Access Control
+* 🌍 Web Security
+* ☁️ Cloud Security
+* 🖥️ Network Monitoring
+* 🚨 Threat Detection
+
+---
+
+## 🛠️ Languages & Technologies
+
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
+
+---
+
+## 🎓 Education
+
+### BSc in Information Technology
+
+**University of Vavuniya, Sri Lanka**
+
+Currently pursuing my undergraduate degree in Information Technology.
+
+Areas covered include:
+
+* Programming
+* Object-Oriented Programming
+* Data Structures
+* Database Management Systems
+* Computer Networks
+* Software Engineering
+* Web Programming
+* Visual Programming
+* Computer Graphics
+* Mathematics for Computing
+
+---
+
+## 📜 Certification
+
+### Google Cybersecurity Professional Certificate
+
+Completed cybersecurity-focused learning covering areas such as:
+
+* Cybersecurity fundamentals
+* Security operations
+* Network security
+* Linux
+* SQL
+* Python
+* Security frameworks
+* Incident response concepts
+
+---
+
+## 💡 What I'm Learning
+
+Currently improving my knowledge in:
+
+```text
+Cybersecurity
+     ↓
+Network Security
+     ↓
+Web Security
+     ↓
+Cloud Security
+     ↓
+Security Research
+```
+
+Alongside cybersecurity, I continue developing my skills in:
+
+* Full-stack web development
+* Database design
+* Networking
+* Cloud technologies
+* AI-assisted development
+* Data technologies
+
+---
+
+## 📊 GitHub Stats
+
+![FARIS JM GitHub Stats](https://github-readme-stats.vercel.app/api?username=farisjm\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farisjm\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farisjm\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🎯 Career Interests
+
+I’m working toward a career in the intersection of:
+
+**🔐 Cybersecurity + ☁️ Cloud + 🤖 AI/Data**
+
+My long-term interests include:
+
+* Cybersecurity Research
+* Security Engineering
+* Cloud Security
+* Network Security
+* Threat Detection
+* Security Automation
+* Security Research
+
+---
+
+## 🤝 Collaboration
+
+I’m interested in collaborating on:
+
+* 🔐 Cybersecurity projects
+* 🌐 Web applications
+* 💻 Software development
+* ☁️ Cloud projects
+* 🛡️ Security research
+* 🎓 Student/academic projects
+* 🚀 Open-source projects
+
+---
+
+## 📫 Contact Me
+
+| Platform    | Profile                                                                                        |
+| ----------- | ---------------------------------------------------------------------------------------------- |
+| 🐙 GitHub   | [github.com/farisjm](https://github.com/farisjm)                                               |
+| 💼 LinkedIn | [www.linkedin.com/in/farisjm](www.linkedin.com/in/farisjm) |
+| 📧 Email    | [faris.mjm2004@gmail.com](mailto:faris.mjm2004@gmail.com)                                      |
+| 💬 WhatsApp | [Chat on WhatsApp](https://wa.me/94701158076)                                                  |
+
+---
+
+## 🧠 My Philosophy
+
+> **Learn. Build. Secure. Repeat.**
+
+> 🧠 Logic • 💻 Code • 🔐 Security • 🌍 Freedom
+
+---
+
+⭐ **Thanks for visiting my GitHub profile!**
+
+**— FARIS JM**

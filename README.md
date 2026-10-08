@@ -30,7 +30,6 @@ I’m an Information Technology undergraduate interested in **Cybersecurity, Web
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 
 I am **MOHAMED FARIS**, a BSc Information Technology undergraduate at the **University of Vavuniya**.

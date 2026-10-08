@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm MOHAMED FARIS</h1>
 
-### BSc IT Undergraduate | Cybersecurity Enthusiast @ University of Vavuniya, Sri Lanka
+### BSc IT Undergraduate @ University of Vavuniya, Sri Lanka
 
 I’m an Information Technology undergraduate interested in **Cybersecurity, Web Development, Cloud Computing, and emerging technologies**. I enjoy building practical software projects, learning how systems work, and continuously developing my technical skills through hands-on projects.
 

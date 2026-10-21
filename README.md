@@ -88,7 +88,7 @@ A practical software project designed to manage paddy purchasing, farmer informa
 * JavaScript
 
 🔗 **GitHub:**
-https://github.com/farisjm/jm-paddy
+[https://github.com/farisjm/jm-paddy](https://github.com/farisjm/jm-paddy-update)
 
 ---
 
